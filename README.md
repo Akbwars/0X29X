@@ -1,5 +1,3 @@
-[![HitCount](https://hits.dwyl.com/0x29X/0x29X.svg?style=flat-square)](http://hits.dwyl.com/0x29X/0x29X)
-
 <p align = center >
   <img src="https://cdn.discordapp.com/attachments/1130663935759097926/1135830035559874621/channels4_profile-removebg-preview.png">
 </p>
@@ -48,5 +46,6 @@
 <div align="center">
 
 [![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit)
+[![HitCount](https://hits.dwyl.com/0x29X/0x29X.svg?style=flat-square)](http://hits.dwyl.com/0x29X/0x29X)
 
 </div>
