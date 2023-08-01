@@ -46,6 +46,9 @@
 <div align="center">
 
 [![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit)
+
+<div align="center">
+  
 [![HitCount](https://hits.dwyl.com/0x29X/0x29X.svg?style=flat-square)](http://hits.dwyl.com/0x29X/0x29X)
 
 </div>
