@@ -3,7 +3,7 @@
 </p>
 
 <div>
-<img align="right" width="400" alt="0x29X" src="https://cdn.discordapp.com/attachments/1130663935759097926/1135829502266724402/Insta__Azdakid.jpg"/>
+<img align="right" width="400" alt="0x29X" src="https://cdn.discordapp.com/attachments/1130663935759097926/1135831012790767676/image.png"/>
 
 <h2> // about-me </h2>
 
