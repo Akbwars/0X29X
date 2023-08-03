@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/screwy)](https://discord.gg/revshit)
+[![widget](https://invidget.switchblade.xyz/screwy)](https://discord.gg/screwy)
 
 <div align="center">
   
