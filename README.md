@@ -8,8 +8,8 @@
 <h2> // about-me </h2>
 
 - 💗 13 | Philippines
+- 🅿 <a href="https://discord.gg/screwy">Screwy 艾</a>
 - 🧊 <a href="https://discord.gg/revshit">Revshit 鵝</a>
-- 🅿 <a href="https://discord.gg/screwy">Screwy 鵝</a>
 - 🐱‍👤 <a href="https://discord.gg/wap">WapnedGang 鵝</a>
 
 <h2> // socials </h2>
