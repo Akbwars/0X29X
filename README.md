@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/jKzemwFndr)](https://discord.gg/jKzemwFndr)
+[![widget](https://invidget.switchblade.xyz/hzeVxQ9R)](https://discord.gg/hzeVxQ9R)
 
 <div align="center">
   
