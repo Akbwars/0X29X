@@ -8,7 +8,7 @@
 <h2> // about-me </h2>
 
 - 💗 13 | Philippines
-- 🅿 <a href="https://discord.gg/Ty5s8futYn">Tangina 艾</a>
+- 🅿 <a href="https://discord.gg/qV7pEDBTqP">Screwy 艾</a>
 - 🧊 <a href="https://discord.gg/revshit">Revshit 鵝</a>
 
 <h2> // socials </h2>
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/Ty5s8futYn)](https://discord.gg/Ty5s8futYn)
+[![widget](https://invidget.switchblade.xyz/qV7pEDBTqP)](https://discord.gg/qV7pEDBTqP)
 
 <div align="center">
   
