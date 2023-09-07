@@ -9,7 +9,6 @@
 
 - 💗 13 | Philippines
 - 🅿 <a href="https://discord.gg/v3E6E8MhAB">Screwy 艾</a>
-- 🧊 <a href="https://discord.gg/revshit">Revshit 鵝</a>
 
 <h2> // socials </h2>
 
