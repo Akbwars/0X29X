@@ -8,7 +8,7 @@
 <h2> // about-me </h2>
 
 - 💗 13 | Philippines
-- 🅿 <a href="https://discord.gg/v3E6E8MhAB">Screwy 艾</a>
+- 🅿 <a href="https://discord.gg/screwy">Screwy 艾</a>
 
 <h2> // socials </h2>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/v3E6E8MhAB)](https://discord.gg/v3E6E8MhAB)
+[![widget](https://invidget.switchblade.xyz/screwy)](https://discord.gg/screwy)
 
 <div align="center">
   
