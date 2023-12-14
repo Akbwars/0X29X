@@ -7,7 +7,7 @@
 
 <h2> // about-me </h2>
 
-- 💗 13 | Philippines
+- 💗 12 | Philippines
 - 🅿 <a href="https://discord.gg/76cfvS2NhD">Screwy 艾</a>
 
 <h2> // socials </h2>
@@ -46,10 +46,6 @@
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/76cfvS2NhD)](https://discord.gg/76cfvS2NhD)
-
-<div align="center">
-  
-[![HitCount](https://hits.dwyl.com/0x29X/0x29X.svg?style=flat-square)](http://hits.dwyl.com/0x29X/0x29X)
+[![widget](https://invidget.switchblade.xyz/screwy)](https://discord.gg/screwy)
 
 </div>
